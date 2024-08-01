@@ -5,7 +5,7 @@ This is the code of the paper 'Benchmarking Secure Sampling Protocols for Differ
 
 ### Setup
 
-Run scripts ```bash install.sh``` to automatically install and setup [MP-SDPZ](https://github.com/data61/MP-SPDZ). It then takes some time to generate enough random bits used by sampling protocols (you can modify the ```n = int(1e8)``` in random_bit.py to reduce the generating time). 
+Run the script ```bash install.sh``` to automatically install and set up [MP-SDPZ](https://github.com/data61/MP-SPDZ). It then takes some time to generate enough random bits used by sampling protocols (you can modify the ```n = int(1e8)``` in random_bit.py to reduce the generating time). 
 
 ### Run protocols
 
