@@ -10,7 +10,7 @@ Run the script ```bash install.sh``` to automatically install and set up [MP-SDP
 ### Run protocols
 
 #### Complie
-Compile a sampling protocol with binary computation. Set parameters for main.mpc to run different protocols (the meanings of parameters are described in main.py).
+Compile a sampling protocol with binary computation. Set parameters for main.mpc to run different protocols (the meanings of parameters are described in main.mpc).
 
 For arithmetics protocols (gc, bmr, etc.), compile with
 
